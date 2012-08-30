@@ -1,0 +1,9 @@
+Cumple alberto 19 de agosto
+
+
+Error	The following objects do not have unique constraint names:
+		-> Column 'Institucion.IdInst'	(<Model>::Institucion)
+		-> Column 'Servicio.IdServ'	(<Model>::Servicio)
+		-> Column 'institucionesAfectacion.IdInst'	(<Model>::institucionesAfectacion)
+		-> Column 'institucionesAcciones.IdInst'	(<Model>::institucionesAcciones)
+		-> Column 'servicioAlbergue.IdServ'	(<Model>::servicioAlbergue)
